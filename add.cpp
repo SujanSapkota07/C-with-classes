@@ -12,7 +12,7 @@ int main()
     sumOfTwoNumbers = firstNumber + secondNumber;
 
     // Prints sum 
-    cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers;     
+    cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers <<"\n";     
 
     return 0;
 }
